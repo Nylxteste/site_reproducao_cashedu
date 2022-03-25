@@ -22,20 +22,22 @@ header{
 
 
 .container header .image{
-    width: 200px;
-    border: 2px solid black;
+    width: 130px;
     margin-right: 260px;
-    margin-top: 20px;
-    margin-left: -60px;
+    margin-top: 17px;
+    margin-left: -10px;
+}
+.container header .image img{
+    width: 104px;
 }
 /* nav header */
 .ul-header{
-    width: 530px;
+    width: 520px;
     display: flex;
     justify-content: space-around;
     margin-top: 45px;
     list-style: none;
-    font-weight: bold;
+    font-weight:550;
     color: aqua;
 
 
@@ -43,8 +45,8 @@ header{
 a{
     text-decoration: none;
     padding: 11px;
-    font-size: 15px;
-    color: #7d6001;
+    font-size: 16px;
+    color: #947611;
 }
 #para-estudantes{
     border-radius: 4px;
