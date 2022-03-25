@@ -54,3 +54,34 @@ a{
     color: #d8dce4;
 
 }
+
+/*pagina1*/
+.headerparte1{
+    width: 50%;
+    margin-left: 60px;
+    margin-top: 150px
+
+}
+
+.headerh2{
+    margin-bottom: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    margin: 30px
+
+}
+.headerparagraf{
+    margin:30px;
+  
+}
+
+.imagheader{
+    display: flex;
+
+
+}
+.imagheader2{
+    margin-left:50px;
+    margin-top: 60px
+
+}
